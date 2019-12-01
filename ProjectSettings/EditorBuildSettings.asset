@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/VR_Demo.unity
     guid: 75a518b96f7cbbe46854604a8ecee585
   - enabled: 1
-    path: Assets/LeapMotion/Core/Examples/Rigged Hands (VR).unity
-    guid: af5071277bb494844a54bfccdc5e226f
+    path: Assets/Scenes/OculusLeapMotion.unity
+    guid: 023f37768bbacf54381728b59bd2b640
+  - enabled: 1
+    path: Assets/Scenes/LeapMotionSetup.unity
+    guid: 86eb6f4e46ef91446a3c6489d22faf0b
   m_configObjects: {}
