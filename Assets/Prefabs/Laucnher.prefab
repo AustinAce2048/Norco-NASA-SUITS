@@ -44,3 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameVersion: 1
+  leftHand: {fileID: 0}
+  rightHand: {fileID: 0}
+  leftSphere: {fileID: 0}
+  rightSphere: {fileID: 0}
