@@ -12,7 +12,7 @@ public class instructionsUI : MonoBehaviour
     public bool isDone = false;
 
     short step;
-    float distance = 0;
+    public float distance = 0;
 
 
     //public bool inView = false;
