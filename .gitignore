@@ -36,3 +36,5 @@ sysinfo.txt
 *.unitypackage
 
 Assets/Photon/PhotonLibs/Metro.meta
+
+Assets/Sound/Music.meta
