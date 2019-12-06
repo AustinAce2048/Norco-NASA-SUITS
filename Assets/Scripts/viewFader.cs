@@ -7,7 +7,6 @@ public class viewFader : MonoBehaviour
     #region FIELDS
     public RawImage fadeOutUIImage;
     public float fadeSpeed = 0.8f;
-    public RaycastPlayer raycastPlayer;
     public enum FadeDirection
     {
         In, //Alpha = 1
