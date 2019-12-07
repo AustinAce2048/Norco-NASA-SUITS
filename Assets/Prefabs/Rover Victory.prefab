@@ -1724,6 +1724,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6096047053660328062}
+  - component: {fileID: 6328286705539642850}
   m_Layer: 0
   m_Name: RoverWIP
   m_TagString: Untagged
@@ -1738,7 +1739,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4480592762797684522}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1746,6 +1747,22 @@ Transform:
   m_Father: {fileID: 6830283946515277609}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &6328286705539642850
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4480592762797684522}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 7ad4af38dc042d74da773651bbd43813, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 7ad4af38dc042d74da773651bbd43813, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &4692172169854133925
 GameObject:
   m_ObjectHideFlags: 0
@@ -2813,7 +2830,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6830283946515277609}
-  - component: {fileID: 9038628523741026695}
   m_Layer: 0
   m_Name: Rover Victory
   m_TagString: Untagged
@@ -2838,22 +2854,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.224}
---- !u!111 &9038628523741026695
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7534894736894481722}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 7ad4af38dc042d74da773651bbd43813, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 7ad4af38dc042d74da773651bbd43813, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!1 &7661268406141073529
 GameObject:
   m_ObjectHideFlags: 0
