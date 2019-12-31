@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <MSBuildForUnityVersion>0.8.3</MSBuildForUnityVersion>
+    
+    <MSBuildForUnityGeneratedOutputDirectory>C:\Projects\Unity\MRTK\MSBuild\Projects</MSBuildForUnityGeneratedOutputDirectory>
+    <UnityProjectAssetsPath>C:\Projects\Unity\MRTK\Assets</UnityProjectAssetsPath>
+    <MSBuildForUnityDefaultOutputPath>$(UnityProjectAssetsPath)\Dependencies</MSBuildForUnityDefaultOutputPath>
+    
+    <UnityCurrentPlatform>WindowsStandalone32</UnityCurrentPlatform>
+    <UnityCurrentTargetFramework>netstandard2.0</UnityCurrentTargetFramework>
+    
+    <UnityMajorVersion>2019</UnityMajorVersion>
+    <UnityMinorVersion>2</UnityMinorVersion>
+  </PropertyGroup>
+  
+  <Target Name="_RemoveOutputDirectory" AfterTargets="Clean">
+    <RemoveDir Directories="$(OutputPath)" />
+  </Target>
+</Project>

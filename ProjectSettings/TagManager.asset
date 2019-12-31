@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - TeleportPoint
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -14,7 +13,6 @@ TagManager:
   - UI
   - 
   - 
-  - VR Grabbing
   - 
   - 
   - 
@@ -38,6 +36,7 @@ TagManager:
   - 
   - 
   - 
+  - Spatial Awareness
   m_SortingLayers:
   - name: Default
     uniqueID: 0
