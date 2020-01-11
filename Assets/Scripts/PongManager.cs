@@ -9,7 +9,8 @@ public class PongManager : MonoBehaviour {
 
     void Start () {
         if (GameObject.FindGameObjectsWithTag ("paddle").Length > 0) {
-            PhotonNetwork.Instantiate (this.paddle.name, new Vector3 (0f, 1.8f, -4f), Quaternion.identity, 0);
+             GameObject pad = PhotonNetwork.Instantiate (this.paddle.name, new Vector3 (0f, 1.8f, -4f), Quaternion.identity, 0);
+             pad.transform.eulerAngles = new Vector3 (0f, 180f, 0f);
         } else {
             GameObject pad = PhotonNetwork.Instantiate (this.paddle.name, new Vector3 (0f, 1.8f, 4f), Quaternion.identity, 0);
             pad.transform.eulerAngles = new Vector3 (0f, 180f, 0f);
