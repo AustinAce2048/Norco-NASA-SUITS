@@ -10,6 +10,8 @@ public class PUNPlayer : MonoBehaviour {
             //Enable components
             transform.GetChild (0).GetComponent<OVRCameraRig> ().enabled = true;
             transform.GetChild (0).GetComponent<OVRManager> ().enabled = true;
+            transform.GetChild (0).transform.GetChild (0).transform.GetChild (4).transform.GetChild (1).gameObject.SetActive (true);
+            transform.GetChild (0).transform.GetChild (0).transform.GetChild (5).transform.GetChild (1).gameObject.SetActive (true);
         }
     }
 
