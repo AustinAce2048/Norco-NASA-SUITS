@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26e805c1812b2eb49b10d0b7df8a65c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paddle: {fileID: 1472421874559284635, guid: ad29cf3893151ec429d777568ff6004e, type: 3}
+  paddle: {fileID: 9041910218329891987, guid: 4e721d5e90775994fbceba0487a9fdbb, type: 3}
 --- !u!4 &1528621512
 Transform:
   m_ObjectHideFlags: 0
