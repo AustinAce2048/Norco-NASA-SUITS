@@ -5,10 +5,9 @@ using UnityEngine;
 public class UIAnchor : MonoBehaviour {
 
     public GameObject worldUIRoot;
-    public GameObject anchorPoint;
 
     void Update () {
-        worldUIRoot.transform.position = anchorPoint.transform.position;
+        worldUIRoot.transform.position = GetComponent<OVRSkeleton> ().Bones[3].Transform.position;
     }
 
 }
