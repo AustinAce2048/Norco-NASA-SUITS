@@ -5,13 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Launch.unity
     guid: 39ea0472fa91625469dc2568a8eda3f3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PingPong.unity
     guid: c25f245cc7ac09041a996d504b8386f2
   - enabled: 0
     path: Assets/Scenes/DevScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Howard anchor/HandUIDemo_howardMiniEdit.unity
+    guid: cd7362f77bf64514bb1c31b5736b2452
   m_configObjects: {}
