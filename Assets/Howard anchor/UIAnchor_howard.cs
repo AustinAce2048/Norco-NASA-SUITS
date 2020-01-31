@@ -2,24 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UIAnchor_howard : MonoBehaviour
-{
+public class UIAnchor_howard : MonoBehaviour {
 
     public GameObject worldUIRoot;
-    private Transform thumbBonePosition;
-    private Transform palm;
+    public GameObject cameraRoot;
+    private Transform pinkyBonePosition;
+    private Transform wristBonePosition;
+    private Transform palmBonePosition;
 
-    void Start(){
-        thumbBonePosition = GetComponent<OVRSkeleton> ().Bones[3].Transform;
-        palm = GetComponent<OVRSkeleton> ().Bones[0].Transform;
+    void Start () {
+        pinkyBonePosition = GetComponent<OVRSkeleton> ().Bones[16].Transform;
+        wristBonePosition = GetComponent<OVRSkeleton> ().Bones[1].Transform;
+        palmBonePosition = GetComponent<OVRSkeleton> ().Bones[0].Transform;
     }
 
     void Update () {
-        if (Physics.Raycast(new Vector3(palm.position.x, palm.position.y, palm.position.z),new Vector3(0, 0, 1), 30f, 0, ddefault)){
-            worldUIRoot.SetActive(true);
-            worldUIRoot.transform.position = new Vector3 (thumbBonePosition.position.x, thumbBonePosition.position.y + 0.05f, thumbBonePosition.position.z);
-        }
-        else { worldUIRoot.SetActive(false); }
+        worldUIRoot.transform.position = new Vector3 (palmBonePosition.position.x - 0.1f, palmBonePosition.position.y, palmBonePosition.position.z);
+        //worldUIRoot.transform.rotation = Quaternion.Euler (palmBonePosition.rotation.x, palmBonePosition.rotation.y, palmBonePosition.rotation.z);
+        //Rotation seems to be absolute
     }
 
 }
