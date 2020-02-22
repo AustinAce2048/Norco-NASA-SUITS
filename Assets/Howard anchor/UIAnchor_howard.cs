@@ -10,8 +10,6 @@ public class UIAnchor_howard : MonoBehaviour {
     //private Transform wristBonePosition;
     private Transform palmBonePosition;
 
-    //Ray ray;
-
     void Start () {
         pinkyBonePosition = GetComponent<OVRSkeleton> ().Bones[16].Transform;
         //wristBonePosition = GetComponent<OVRSkeleton> ().Bones[1].Transform;
@@ -20,23 +18,15 @@ public class UIAnchor_howard : MonoBehaviour {
     }
 
     void Update () {
-        //worldUIRoot.transform.parent = palmBonePosition; //ignore
-
         worldUIRoot.transform.position = new Vector3 (pinkyBonePosition.position.x - 0.1f, pinkyBonePosition.position.y, pinkyBonePosition.position.z);
-        //worldUIRoot.transform.rotation = Quaternion.Euler (palmBonePosition.rotation.x, palmBonePosition.rotation.y, palmBonePosition.rotation.z);
-        //Rotation seems to be absolute
 
-        //Disable UI if palm is not pointed upward
-        Vector3 targetDir = new Vector3 (0f, 10000f, 0f) - transform.position;
-        float angle = Vector3.Angle (targetDir, transform.up);
+        Vector3 targetDir = new Vector3 (cameraRoot.transform.position.x, cameraRoot.transform.position.y + 10000f, cameraRoot.transform.position.z) - cameraRoot.transform.position;
+        float angle = Vector3.Angle (targetDir, -palmBonePosition.up);
         if (angle <= 30f) {
-            worldUIRoot.SetActive (false);
-        } else {
             worldUIRoot.SetActive (true);
+        } else {
+            worldUIRoot.SetActive (false);
         }
-
-        //ray = new Ray(transform.position, Vector3.down);
-        //Debug.DrawLine(palmBonePosition.position, palmBonePosition.position + Vector3.down,Color.red);
     }
 
 }
