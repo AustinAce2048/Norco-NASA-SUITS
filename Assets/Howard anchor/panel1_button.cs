@@ -12,7 +12,7 @@ public class panel1_button : MonoBehaviour
         {
             isAnchored = false;
             this.transform.parent = null;
-            this.transform.position += new Vector3(0, 2.5f, 0);
+            //this.transform.position += new Vector3(0, 2.5f, 0);
         }
         else
         {
