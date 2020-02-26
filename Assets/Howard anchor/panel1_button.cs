@@ -6,6 +6,13 @@ public class panel1_button : MonoBehaviour
 {
     public bool isAnchored = true;
 
+    private string boneTag;
+
+    //void Start()
+    //{
+    //    boneTag = GameObject.Find("OVRHandPrefab").GetComponent<OVRSkeleton>().Bones[];
+    //}
+
     private void OnTriggerEnter(Collider other)
     {
         if (isAnchored == true)
