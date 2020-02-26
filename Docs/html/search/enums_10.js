@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['radialviewreferencedirection_26329',['RadialViewReferenceDirection',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#a7613ec15182395bac7f75bb0b6591583',1,'Microsoft::MixedReality::Toolkit::Utilities']]],
+  ['rawaxis1d_26330',['RawAxis1D',['../class_o_v_r_input.html#a9c9eff2910ca07d1fb0e924273ebefaf',1,'OVRInput']]],
+  ['rawaxis2d_26331',['RawAxis2D',['../class_o_v_r_input.html#a973c161bfb3bd6d0cc16c3a0b56c9f4a',1,'OVRInput']]],
+  ['rawbutton_26332',['RawButton',['../class_o_v_r_input.html#a9d6423af820e22b93f0b33a4fc4bf77a',1,'OVRInput']]],
+  ['rawneartouch_26333',['RawNearTouch',['../class_o_v_r_input.html#ac9c3c10aa9911507c6dc66e2dd6ec60e',1,'OVRInput']]],
+  ['rawtouch_26334',['RawTouch',['../class_o_v_r_input.html#a6e130faa2035c5b20853c1177d909cc6',1,'OVRInput']]],
+  ['raycastdirectionmode_26335',['RaycastDirectionMode',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities_1_1_solvers_1_1_surface_magnetism.html#ae89191ca3144ad7b1594088683b0a1ef',1,'Microsoft::MixedReality::Toolkit::Utilities::Solvers::SurfaceMagnetism']]],
+  ['receivergroup_26336',['ReceiverGroup',['../namespace_photon_1_1_realtime.html#a32e1cc9d538d60db8e5fb79b7a4e2e40',1,'Photon::Realtime']]],
+  ['recenterflags_26337',['RecenterFlags',['../class_o_v_r_plugin.html#a57bab70d95f39c0c5a30d2309d3c9fa8',1,'OVRPlugin']]],
+  ['recognitionconfidencelevel_26338',['RecognitionConfidenceLevel',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#aefcee972e30e14aeee06d68390cf319b',1,'Microsoft::MixedReality::Toolkit::Utilities']]],
+  ['releasebehaviortype_26339',['ReleaseBehaviorType',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_u_i_1_1_manipulation_handler.html#a11f6e3d5e799ea4dc6785c8c5d96f12d',1,'Microsoft::MixedReality::Toolkit::UI::ManipulationHandler']]],
+  ['remaintype_26340',['RemainType',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_u_i_1_1_tool_tip_spawner.html#a6c2e5196e0cb176482b362fc6056f232',1,'Microsoft::MixedReality::Toolkit::UI::ToolTipSpawner']]],
+  ['renderingmode_26341',['RenderingMode',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_editor_1_1_mixed_reality_shader_g_u_i.html#ad90f9cbf99d8d26ae2837d8f89cc24cc',1,'Microsoft::MixedReality::Toolkit::Editor::MixedRealityShaderGUI']]],
+  ['result_26342',['Result',['../class_oculus_1_1_avatar_1_1_c_a_p_i.html#aa251853aeef286a2d42a771e51202207',1,'Oculus.Avatar.CAPI.Result()'],['../class_o_v_r_lip_sync.html#a5d12c94648fd4877dd9ce1734bf7898b',1,'OVRLipSync.Result()'],['../class_o_v_r_plugin.html#a38861fd97cddfbf29c44113f40b4fabc',1,'OVRPlugin.Result()']]],
+  ['richpresenceextracontext_26343',['RichPresenceExtraContext',['../namespace_oculus_1_1_platform.html#a41ff2ef436f9ee680b0c56b222b15956',1,'Oculus::Platform']]],
+  ['roomjoinability_26344',['RoomJoinability',['../namespace_oculus_1_1_platform.html#a5c8d25d1290312ada6f64bb5574eaa62',1,'Oculus::Platform']]],
+  ['roomjoinpolicy_26345',['RoomJoinPolicy',['../namespace_oculus_1_1_platform.html#a21e0c11dd3aba30b7640c05cdf8cfd6b',1,'Oculus::Platform']]],
+  ['roommembershiplockstatus_26346',['RoomMembershipLockStatus',['../namespace_oculus_1_1_platform.html#a9fe8a2cc82db2269f7093864f2388efe',1,'Oculus::Platform']]],
+  ['roomtype_26347',['RoomType',['../namespace_oculus_1_1_platform.html#a0d53e5e61da80ca66f4ab2210519f9d9',1,'Oculus::Platform']]],
+  ['rotateinonehandtype_26348',['RotateInOneHandType',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_u_i_1_1_manipulation_handler.html#a2e05ad1414c2693b878f946567f34085',1,'Microsoft::MixedReality::Toolkit::UI::ManipulationHandler']]],
+  ['rotationaxes_26349',['RotationAxes',['../class_mouse_look.html#a3abd7cc36564223c7f8fafd4da46783d',1,'MouseLook']]],
+  ['rotationconstrainttype_26350',['RotationConstraintType',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#abfb759ea8304f212a4253fff95fec8d5',1,'Microsoft::MixedReality::Toolkit::Utilities']]],
+  ['rotationhandleprefabcollider_26351',['RotationHandlePrefabCollider',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_u_i_1_1_bounding_box.html#a4e948ca97bb99840728c259723ae5033',1,'Microsoft::MixedReality::Toolkit::UI::BoundingBox']]],
+  ['rpctarget_26352',['RpcTarget',['../group__public_api.html#gad59a35d37925dbf12a969adac050714b',1,'Photon::Pun']]]
+];

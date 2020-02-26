@@ -1,0 +1,8 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data =
+[
+    [ "color", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data.html#aed0b784f6efa90b63b00aac90ebb7892", null ],
+    [ "intensity", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data.html#a9fcccf9c7878a9a2d99d09c7d631c919", null ],
+    [ "position", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data.html#a87676b5189ec2b581d04d4a196afeb67", null ],
+    [ "radiusInMeter", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data.html#abf9befaf85f10b3d735550f1849cbc01", null ],
+    [ "rotation", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_particle_heatmap_particle_data.html#aafce1fedaaded1945231f2fbe8cf6df8", null ]
+];

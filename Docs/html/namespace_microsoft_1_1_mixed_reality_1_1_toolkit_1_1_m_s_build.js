@@ -1,0 +1,16 @@
+var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build =
+[
+    [ "AssemblyDefinitionInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_assembly_definition_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_assembly_definition_info" ],
+    [ "AssetScriptReferenceRetargeter", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_asset_script_reference_retargeter.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_asset_script_reference_retargeter" ],
+    [ "CompilationPlatformInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_compilation_platform_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_compilation_platform_info" ],
+    [ "CSProjectDependency", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_c_s_project_dependency.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_c_s_project_dependency" ],
+    [ "CSProjectInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_c_s_project_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_c_s_project_info" ],
+    [ "MSBuildTools", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_m_s_build_tools.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_m_s_build_tools" ],
+    [ "PluginAssemblyInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_plugin_assembly_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_plugin_assembly_info" ],
+    [ "ReferenceItemInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_reference_item_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_reference_item_info" ],
+    [ "SourceFileInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_source_file_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_source_file_info" ],
+    [ "TargetFrameworkExtensions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_target_framework_extensions.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_target_framework_extensions" ],
+    [ "TemplateFiles", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_template_files.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_template_files" ],
+    [ "UnityProjectInfo", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_unity_project_info.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_unity_project_info" ],
+    [ "Utilities", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_utilities.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_m_s_build_1_1_utilities" ]
+];

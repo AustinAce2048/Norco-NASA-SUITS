@@ -1,0 +1,6 @@
+var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input =
+[
+    [ "InteractionSourceExtensions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input_1_1_interaction_source_extensions.html", null ],
+    [ "WindowsDictationInputProvider", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input_1_1_windows_dictation_input_provider.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input_1_1_windows_dictation_input_provider" ],
+    [ "WindowsSpeechInputProvider", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input_1_1_windows_speech_input_provider.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_1_1_input_1_1_windows_speech_input_provider" ]
+];

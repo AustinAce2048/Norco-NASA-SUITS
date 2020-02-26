@@ -1,0 +1,8 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e =
+[
+    [ "LoadData", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e.html#a4211ea1e6876fa63f47c694c5c46b649", null ],
+    [ "PauseReplay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e.html#a87e296c3f81d04afaf2e14375fae920c", null ],
+    [ "StartRecording", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e.html#a1d26deed6cb27fd8c12e145f0e30e9fe", null ],
+    [ "StartReplay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e.html#a214c53e7036e880ed549f8ba564cc8f7", null ],
+    [ "StopRecording", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin4f4b0b44a1b07363349235b47fbb7c2e.html#ad21df783f102c657e74207d225cbcf85", null ]
+];

@@ -1,0 +1,7 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_open_v_r_1_1_input_1_1_windows_mixed_reality_open_v_r_motion_controller =
+[
+    [ "WindowsMixedRealityOpenVRMotionController", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_open_v_r_1_1_input_1_1_windows_mixed_reality_open_v_r_motion_controller.html#a2fb6fa59705ac62db812e3f9a12a4ec3", null ],
+    [ "SetupDefaultInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_open_v_r_1_1_input_1_1_windows_mixed_reality_open_v_r_motion_controller.html#afe1a6e9008c3b051ce7d65c86c37271a", null ],
+    [ "DefaultLeftHandedInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_open_v_r_1_1_input_1_1_windows_mixed_reality_open_v_r_motion_controller.html#a6bd9152647732e5969dc06ca66a1033b", null ],
+    [ "DefaultRightHandedInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_open_v_r_1_1_input_1_1_windows_mixed_reality_open_v_r_motion_controller.html#a30b2e4f46568b0f436e5ca451aac345b", null ]
+];

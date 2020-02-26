@@ -1,0 +1,11 @@
+var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary =
+[
+    [ "Editor", "namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_editor.html", "namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_editor" ],
+    [ "BoundaryEventData", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_boundary_event_data.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_boundary_event_data" ],
+    [ "Edge", "struct_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_edge.html", "struct_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_edge" ],
+    [ "IMixedRealityBoundaryHandler", "interface_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_i_mixed_reality_boundary_handler.html", "interface_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_i_mixed_reality_boundary_handler" ],
+    [ "IMixedRealityBoundarySystem", "interface_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_i_mixed_reality_boundary_system.html", "interface_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_i_mixed_reality_boundary_system" ],
+    [ "InscribedRectangle", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_inscribed_rectangle.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_inscribed_rectangle" ],
+    [ "MixedRealityBoundarySystem", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_mixed_reality_boundary_system.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_mixed_reality_boundary_system" ],
+    [ "MixedRealityBoundaryVisualizationProfile", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_mixed_reality_boundary_visualization_profile.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_mixed_reality_boundary_visualization_profile" ]
+];

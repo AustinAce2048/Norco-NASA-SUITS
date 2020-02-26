@@ -1,0 +1,4 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix =
+[
+    [ "BuildMatrix", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix.html#a0767590c49bf12a4a12127ba8daccfce", null ]
+];
