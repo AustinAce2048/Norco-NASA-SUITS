@@ -8,24 +8,29 @@ public class panel1_button : MonoBehaviour
 
     private string boneTag;
 
-    //void Start()
-    //{
-    //    boneTag = GameObject.Find("OVRHandPrefab").GetComponent<OVRSkeleton>().Bones[];
-    //}
+    void Start()
+    {
+        //WIP
+        //GameObject.Find("LeftHandAnchor").GetComponentInChildren<OVRSkeleton>().Bones[20].gameObject.tag == "finger";
+        //boneTag = GameObject.Find("LeftHandAnchor").GetComponentInChildren<OVRSkeleton>().Bones[23].;
+    }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (isAnchored == true)
-        {
-            isAnchored = false;
-            this.transform.parent = null;
-            //this.transform.position += new Vector3(0, 2.5f, 0);
-        }
-        else
-        {
-            isAnchored = true;
-            this.transform.parent = GameObject.Find("UI Right Hand").transform;
-        }
+        //if (other.tag == boneTag)
+        //{
+            if (isAnchored == true)
+            {
+                isAnchored = false;
+                this.transform.parent = null;
+                //this.transform.position += new Vector3(0, 2.5f, 0);
+            }
+            else
+            {
+                isAnchored = true;
+                this.transform.parent = GameObject.Find("UI Right Hand").transform;
+            }
+        //}
     }
     
 }

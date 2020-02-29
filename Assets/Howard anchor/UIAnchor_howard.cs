@@ -38,9 +38,15 @@ public class UIAnchor_howard : MonoBehaviour {
         Vector3 targetDir = new Vector3(cameraRoot.transform.position.x, cameraRoot.transform.position.y + 10000f, cameraRoot.transform.position.z) - cameraRoot.transform.position;
         float angle = Vector3.Angle(targetDir, -palmBonePosition.up);
         if (angle <= 30f) {
-            worldUIRoot.SetActive(true);
+            for (int i = 0; i < worldUIRoot.transform.childCount; ++i)
+            {
+                worldUIRoot.transform.GetChild(i).gameObject.SetActive(true);
+            }
         } else {
-            worldUIRoot.SetActive(false);
+            for (int i = 0; i < worldUIRoot.transform.childCount; ++i)
+            {
+                worldUIRoot.transform.GetChild(i).gameObject.SetActive(false);
+            }
         }
 
     }
