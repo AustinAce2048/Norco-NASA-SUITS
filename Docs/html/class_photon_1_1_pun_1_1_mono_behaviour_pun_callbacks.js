@@ -1,0 +1,28 @@
+var class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks =
+[
+    [ "OnConnected", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a71bafa3f1244a2cc5cab88cb85184c18", null ],
+    [ "OnConnectedToMaster", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a6b81e1209b613ec41d140058ce8237ae", null ],
+    [ "OnCreatedRoom", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a9d75d18fee4ad78a769a013f22aa8216", null ],
+    [ "OnCreateRoomFailed", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a81cd43f3daa79d73918ea6038f705c8e", null ],
+    [ "OnCustomAuthenticationFailed", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a03777e3b61675c845c0fc430aef58e03", null ],
+    [ "OnCustomAuthenticationResponse", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#ade7a262d4acfbc0da193fe5beaf147d2", null ],
+    [ "OnDisable", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a289eb37839d81395d4f69bdfb7e36b70", null ],
+    [ "OnDisconnected", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a723f1ce08b12e6c0979d311eb4c334fe", null ],
+    [ "OnEnable", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a6391723a301547ab13db94c69e0cd3a0", null ],
+    [ "OnFriendListUpdate", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a3ea7ae828d4387449e3601fdb7fd491a", null ],
+    [ "OnJoinedLobby", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a4f2f2ef7163b2bd5602ba82e6e483f3b", null ],
+    [ "OnJoinedRoom", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#ad802c169b199dc3c2cab31f71f17c01c", null ],
+    [ "OnJoinRandomFailed", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#afc0d1bf03df89869c04186aec6764cd9", null ],
+    [ "OnJoinRoomFailed", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a7c634071d04fe5682cbb6ff27de26c61", null ],
+    [ "OnLeftLobby", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a7f49bbe1b19d6bf5b99eb4d32c4f9ef3", null ],
+    [ "OnLeftRoom", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#abc95ff5fb76dbbbe7efa875cea69a650", null ],
+    [ "OnLobbyStatisticsUpdate", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a8d0c6db5d34c29b32000491121bb5a4c", null ],
+    [ "OnMasterClientSwitched", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#ad01addcf0288d4493f68021d677a8b62", null ],
+    [ "OnPlayerEnteredRoom", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a09e3f71b344a6e922169c6e7b2434e90", null ],
+    [ "OnPlayerLeftRoom", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a0c633b69e27c8f7d8840ac2279d8e1e9", null ],
+    [ "OnPlayerPropertiesUpdate", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#aa718e4217d34a0df754dec27d8094b4a", null ],
+    [ "OnRegionListReceived", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#aec077322b544575ce47f7cb186dac140", null ],
+    [ "OnRoomListUpdate", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a7b1035d368e74f9b2348ef4f24b23fc3", null ],
+    [ "OnRoomPropertiesUpdate", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#af0782de2bdcf66dfe7c09c932bdc6328", null ],
+    [ "OnWebRpcResponse", "class_photon_1_1_pun_1_1_mono_behaviour_pun_callbacks.html#a00981d740846c3d509570b13503df373", null ]
+];

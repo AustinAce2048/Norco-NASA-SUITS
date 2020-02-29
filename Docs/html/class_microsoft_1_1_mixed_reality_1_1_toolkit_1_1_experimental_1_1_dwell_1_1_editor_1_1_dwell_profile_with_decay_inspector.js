@@ -1,0 +1,5 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_editor_1_1_dwell_profile_with_decay_inspector =
+[
+    [ "DrawConditionalParameter", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_editor_1_1_dwell_profile_with_decay_inspector.html#af20f7ccf0b50ffe5714bee24e87e7531", null ],
+    [ "OnInspectorGUI", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_editor_1_1_dwell_profile_with_decay_inspector.html#a07b77183d042cb331ba9b0261fc18a4b", null ]
+];

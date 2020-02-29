@@ -1,0 +1,27 @@
+var class_oculus_1_1_platform_1_1_rooms =
+[
+    [ "CreateAndJoinPrivate", "class_oculus_1_1_platform_1_1_rooms.html#a49b95eb2418e0db1a6f9bbba6818f1ff", null ],
+    [ "CreateAndJoinPrivate2", "class_oculus_1_1_platform_1_1_rooms.html#a80944d531d648256a93d134d6baec0b1", null ],
+    [ "Get", "class_oculus_1_1_platform_1_1_rooms.html#af293b3641f23dee5775b9f0e9a165c14", null ],
+    [ "GetCurrent", "class_oculus_1_1_platform_1_1_rooms.html#a5a753e9545df88018193af97cfcba093", null ],
+    [ "GetCurrentForUser", "class_oculus_1_1_platform_1_1_rooms.html#ab787e998cd55d8fef3d73e5c9a2311fe", null ],
+    [ "GetInvitableUsers", "class_oculus_1_1_platform_1_1_rooms.html#af78712a13b4bb98f6ba882b21517ba4e", null ],
+    [ "GetInvitableUsers2", "class_oculus_1_1_platform_1_1_rooms.html#adb294bef4c245d46458ac7e458f1e1f6", null ],
+    [ "GetModeratedRooms", "class_oculus_1_1_platform_1_1_rooms.html#a385eec9d4f4d210c47b97016145b1529", null ],
+    [ "GetNextRoomListPage", "class_oculus_1_1_platform_1_1_rooms.html#a782f4f08d67ab17e545a5da13b423bd5", null ],
+    [ "InviteUser", "class_oculus_1_1_platform_1_1_rooms.html#a75557096ba77845dbc5ca87356f7ea06", null ],
+    [ "Join", "class_oculus_1_1_platform_1_1_rooms.html#a11ee70bd6f86df61bb91ade14d50c9ce", null ],
+    [ "Join2", "class_oculus_1_1_platform_1_1_rooms.html#a039fa6825ed82544def57f98406e8f73", null ],
+    [ "KickUser", "class_oculus_1_1_platform_1_1_rooms.html#aaa78bb83f42443ce9a4ea746503ff831", null ],
+    [ "LaunchInvitableUserFlow", "class_oculus_1_1_platform_1_1_rooms.html#a56d83120979253bd7aa576e9a4501851", null ],
+    [ "Leave", "class_oculus_1_1_platform_1_1_rooms.html#a5c4263b88d64f3fe7ecd321bdefe9a29", null ],
+    [ "SetDescription", "class_oculus_1_1_platform_1_1_rooms.html#a6e9483a38f47cd94b2c5dc1875e87c6c", null ],
+    [ "SetRoomInviteAcceptedNotificationCallback", "class_oculus_1_1_platform_1_1_rooms.html#a6f4f0f02b25bc0d57de1167cc9f1188c", null ],
+    [ "SetRoomInviteNotificationCallback", "class_oculus_1_1_platform_1_1_rooms.html#aa89928c0d4f70a7cf69b6dc58b6bff16", null ],
+    [ "SetRoomInviteReceivedNotificationCallback", "class_oculus_1_1_platform_1_1_rooms.html#af1af7dc33a2d6190e7eb778cfc21e26a", null ],
+    [ "SetUpdateNotificationCallback", "class_oculus_1_1_platform_1_1_rooms.html#ad464426293c4aa2482f1ab14ec2bbf08", null ],
+    [ "UpdateDataStore", "class_oculus_1_1_platform_1_1_rooms.html#a53b8fd2fc1827c5fdeb3fe678e7b112a", null ],
+    [ "UpdateMembershipLockStatus", "class_oculus_1_1_platform_1_1_rooms.html#a88e35ba868168cea4e30b8cfae25b06d", null ],
+    [ "UpdateOwner", "class_oculus_1_1_platform_1_1_rooms.html#a1e195bfaedb46919ba9da40d269103bb", null ],
+    [ "UpdatePrivateRoomJoinPolicy", "class_oculus_1_1_platform_1_1_rooms.html#ad656be8a399f16624c184d7a10a995ec", null ]
+];

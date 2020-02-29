@@ -1,0 +1,28 @@
+var struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t =
+[
+    [ "applicationLaunch", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a263638f56ad113bbe1922ba336c02443", null ],
+    [ "cameraSurface", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a7c1bd9e9497bc705bbb6457b0b22f725", null ],
+    [ "chaperone", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#af76935e234b0e3f2f94df63716e84beb", null ],
+    [ "controller", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#ac3722fd727d48a94a3f8d89339781aad", null ],
+    [ "dualAnalog", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#aa8bce2c14050c385f97a35567ba1fcc4", null ],
+    [ "hapticVibration", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#aa65271fc14d830fed4425de0251f7078", null ],
+    [ "inputBinding", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a4989671d005d15470fae2ab2ef79dfe6", null ],
+    [ "ipd", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a6b215233d371851d24a42ff1cbbeda2d", null ],
+    [ "keyboard", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a4baf1a8f953c98ebdd0ee4f4c4899347", null ],
+    [ "messageOverlay", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a0b9229e31c737f48cab3a2381dca8be3", null ],
+    [ "mouse", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a0801b23f944b3d111ebf78ed3b3bcb0f", null ],
+    [ "notification", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#ac9d8348220756c60535029959655c2d8", null ],
+    [ "overlay", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a107ffa8f4241f8cfdef7ea92a1df44ed", null ],
+    [ "performanceTest", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a6575c7db996e066cc1eeab44e537fae5", null ],
+    [ "process", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a5a5421d7dd1a23b81ca51c632ce2c3d4", null ],
+    [ "property", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a1446091eb35ff2ec8b1ee0df6b615801", null ],
+    [ "reserved", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a69a60dac55632ad45239d101d859127c", null ],
+    [ "screenshot", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a9c1b35a929f54c8b09080852b7b7bd01", null ],
+    [ "screenshotProgress", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a3eedb67aa684f4dc30b8ee9bd4acae08", null ],
+    [ "scroll", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a3ffd80cd2aa7a01cf2bb50d5ce557917", null ],
+    [ "seatedZeroPoseReset", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a11aff6e644b191a14466cdcba6ece7c3", null ],
+    [ "spatialAnchor", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a8f5375c326ba7b9708b059bf42edabb4", null ],
+    [ "status", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#aab55c3a2a3ca78d992d514e8147399ca", null ],
+    [ "touchPadMove", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a8621ffc3463d211c803614638fcc023b", null ],
+    [ "webConsole", "struct_o_v_r_1_1_open_v_r_1_1_v_r_event___data__t.html#a0d976720e7f7d0712c5c7864f705573d", null ]
+];

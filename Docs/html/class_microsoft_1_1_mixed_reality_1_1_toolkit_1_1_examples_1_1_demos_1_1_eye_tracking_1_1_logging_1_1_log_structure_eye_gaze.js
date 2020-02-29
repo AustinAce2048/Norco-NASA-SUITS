@@ -1,0 +1,5 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure_eye_gaze =
+[
+    [ "GetData", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure_eye_gaze.html#a9d06ab4bc2cd7dcf46a56f2174041f00", null ],
+    [ "GetHeaderColumns", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure_eye_gaze.html#aa804d3bee656929d507f148652974306", null ]
+];

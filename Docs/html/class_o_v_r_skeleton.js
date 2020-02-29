@@ -1,0 +1,48 @@
+var class_o_v_r_skeleton =
+[
+    [ "IOVRSkeletonDataProvider", "interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html", "interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider" ],
+    [ "SkeletonPoseData", "struct_o_v_r_skeleton_1_1_skeleton_pose_data.html", "struct_o_v_r_skeleton_1_1_skeleton_pose_data" ],
+    [ "BoneId", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353", [
+      [ "Invalid", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Hand_Start", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353ae30c9c94d18ea290644c9f2d6908c14e", null ],
+      [ "Hand_WristRoot", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a0b73b6583d548384b72ea8929a6aadcf", null ],
+      [ "Hand_ForearmStub", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a47ec7e29ea1df266711eba86d51a861b", null ],
+      [ "Hand_Thumb0", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a769e6d20aad0aeb3d3621007beaf41ca", null ],
+      [ "Hand_Thumb1", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353aeca6e912db1029f6aa0215093d1d6577", null ],
+      [ "Hand_Thumb2", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a43c533dd97c1af0738ad97224656d192", null ],
+      [ "Hand_Thumb3", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353ab6fea9bb66bc663c49624fe85c47d6ca", null ],
+      [ "Hand_Index1", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a6ff540b73df677ca2eb85540ea86539c", null ],
+      [ "Hand_Index2", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a4a3825790ba77287106e490dfe750c38", null ],
+      [ "Hand_Index3", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a062b37a972831bb5ec39b7b28131c8ad", null ],
+      [ "Hand_Middle1", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a9bb824d1958106956dbf074a1a2b8307", null ],
+      [ "Hand_Middle2", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a81d786b452f53744ca6b2d58cec080c7", null ],
+      [ "Hand_Middle3", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a06cc26b1a20a77d00286e3097fd13b80", null ],
+      [ "Hand_Ring1", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a6764ce09b29fff3019be443a359dc515", null ],
+      [ "Hand_Ring2", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a7ac07d6204a18c2d3730f9f59f460b53", null ],
+      [ "Hand_Ring3", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a71fcee65285d3d60036ac3aafae48686", null ],
+      [ "Hand_Pinky0", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353af74f13dd3ee8f94c160bfca2f745f820", null ],
+      [ "Hand_Pinky1", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353ad8d3a5dd459c4ca6e0cb380062df09c5", null ],
+      [ "Hand_Pinky2", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a969c054259015696a6b1ccd3c0498462", null ],
+      [ "Hand_Pinky3", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a21977268dca083daec8b27a40238f432", null ],
+      [ "Hand_MaxSkinnable", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a841a03526468e2982850aaf0027baeca", null ],
+      [ "Hand_ThumbTip", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a797e652623ce6c50aaa1c3ad7d81a653", null ],
+      [ "Hand_IndexTip", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a49ecc14e7c9951bd70d6aaa8f2e07888", null ],
+      [ "Hand_MiddleTip", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a06e07f4a7ddf1ffc2b6ca674ff549f28", null ],
+      [ "Hand_RingTip", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353ae7ffb9ec9686991e3b67528ba2b9fc5d", null ],
+      [ "Hand_PinkyTip", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a228f2d63c62f5d3b47bcc7c7d5b2d103", null ],
+      [ "Hand_End", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a48000256f4f1c2d4ab08199dfb3467a1", null ],
+      [ "Max", "class_o_v_r_skeleton.html#a628dde873fc63990b43777310dd1d353a6a061313d22e51e0f25b7cd4dc065233", null ]
+    ] ],
+    [ "SkeletonType", "class_o_v_r_skeleton.html#a82da87f182c9208a36c36ab3b269905b", [
+      [ "None", "class_o_v_r_skeleton.html#a82da87f182c9208a36c36ab3b269905ba6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "HandLeft", "class_o_v_r_skeleton.html#a82da87f182c9208a36c36ab3b269905ba558c4cce30e979b441f36bcac58692c3", null ],
+      [ "HandRight", "class_o_v_r_skeleton.html#a82da87f182c9208a36c36ab3b269905badb75ce9c367c69e8af461ee43d8efdad", null ]
+    ] ],
+    [ "GetCurrentEndBoneId", "class_o_v_r_skeleton.html#a491239fab2829bd245293e2a54fdbb19", null ],
+    [ "GetCurrentNumBones", "class_o_v_r_skeleton.html#a7fba4fa3922c11ff5eac681bd160f9ae", null ],
+    [ "GetCurrentNumSkinnableBones", "class_o_v_r_skeleton.html#a246f60dcf30f1daf76db0cf498d50702", null ],
+    [ "GetCurrentStartBoneId", "class_o_v_r_skeleton.html#a28012298dc7f3ecc0de0988fa341461b", null ],
+    [ "BindPoses", "class_o_v_r_skeleton.html#a2efb21f8cfe37c583f011f2d7dbecb0d", null ],
+    [ "Bones", "class_o_v_r_skeleton.html#a806dbd4c846beecdc379d0b32b926f20", null ],
+    [ "Capsules", "class_o_v_r_skeleton.html#ac0477caf336f70d88e09b46500e43583", null ]
+];

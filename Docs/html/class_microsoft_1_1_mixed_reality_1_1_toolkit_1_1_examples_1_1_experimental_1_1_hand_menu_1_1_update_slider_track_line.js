@@ -1,0 +1,4 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_experimental_1_1_hand_menu_1_1_update_slider_track_line =
+[
+    [ "OnSliderUpdated", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_experimental_1_1_hand_menu_1_1_update_slider_track_line.html#a6d7bf6c1f85415589019b2d6f1281637", null ]
+];

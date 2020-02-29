@@ -1,0 +1,4 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_color_changer_unity_u_i =
+[
+    [ "RandomColor", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_color_changer_unity_u_i.html#a01f519b71e3e97c9bd26bf2b8fe6300d", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader =
+[
+    [ "MaterialMatrix", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix" ],
+    [ "MaterialMatrixEditor", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix_editor.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_standard_shader_1_1_material_matrix_editor" ]
+];

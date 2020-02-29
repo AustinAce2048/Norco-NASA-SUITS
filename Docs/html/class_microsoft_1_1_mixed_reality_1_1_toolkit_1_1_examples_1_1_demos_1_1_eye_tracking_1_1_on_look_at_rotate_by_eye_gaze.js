@@ -1,0 +1,4 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_on_look_at_rotate_by_eye_gaze =
+[
+    [ "OnEyeFocusStay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_on_look_at_rotate_by_eye_gaze.html#a72d33d4cb8e03cea8b3268e6adff00a9", null ]
+];

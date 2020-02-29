@@ -1,0 +1,5 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_windows_mixed_reality_utilities =
+[
+    [ "SystemQuaternionToUnity", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_windows_mixed_reality_utilities.html#aa50cda720140086c11c96e3300896528", null ],
+    [ "SystemVector3ToUnity", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_windows_mixed_reality_utilities.html#a3777ddb9c3963ea6e53a6adb6fdf1eee", null ]
+];

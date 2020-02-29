@@ -1,0 +1,5 @@
+var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target8e087eac52f2a38b1d10ad508b5fd139 =
+[
+    [ "DwellTimeInMs", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target8e087eac52f2a38b1d10ad508b5fd139.html#a402bc19ed63fd98b70edb92862f8d818", null ],
+    [ "LookAwayTimeInMs", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target8e087eac52f2a38b1d10ad508b5fd139.html#a65c1775a8cb8261a13ea351c8f4121d5", null ]
+];

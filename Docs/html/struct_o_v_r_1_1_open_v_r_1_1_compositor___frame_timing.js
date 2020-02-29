@@ -1,0 +1,27 @@
+var struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing =
+[
+    [ "m_flClientFrameIntervalMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a445c00c5daa6235d2991a1382787d635", null ],
+    [ "m_flCompositorIdleCpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#aee678dc00b798feba669c60ce4c8d5e5", null ],
+    [ "m_flCompositorRenderCpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a7b7ffd2da9a67f4b752407bfc2917b47", null ],
+    [ "m_flCompositorRenderGpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#acb931e5024c36db6d97da875b0a0b79b", null ],
+    [ "m_flCompositorRenderStartMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#ab7d40132f6f9c0a06fe2b17743af2cad", null ],
+    [ "m_flCompositorUpdateEndMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#ac2025ab46450a1667b5fc27bfa4f364e", null ],
+    [ "m_flCompositorUpdateStartMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#ac9fd8ad0e662614fb2df20d986cf6850", null ],
+    [ "m_flNewFrameReadyMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a113ce6d3cfe7a0fd2982997df001f172", null ],
+    [ "m_flNewPosesReadyMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a25a2b09be7525bb8f4c1bdafb9e37df2", null ],
+    [ "m_flPostSubmitGpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a58d6954224e5b2b36f58ce64ad46b8d9", null ],
+    [ "m_flPresentCallCpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a643b8343a1f80c452aa05ebd1cc45772", null ],
+    [ "m_flPreSubmitGpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a84b1e405694bb558a9256d0b88d14a5b", null ],
+    [ "m_flSubmitFrameMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#ace07b4ecd98f77ea843e62fbf3367c6e", null ],
+    [ "m_flSystemTimeInSeconds", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a0af718713d77efc3eaf0c1404fb2ddae", null ],
+    [ "m_flTotalRenderGpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#ada1baab1ebc3712c04690690ea3f72c8", null ],
+    [ "m_flWaitForPresentCpuMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#af6fef00a22ca50eaad705846e326759c", null ],
+    [ "m_flWaitGetPosesCalledMs", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a02c393a39e29d875a867a00955e4a7af", null ],
+    [ "m_HmdPose", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a8a8db642ae30c0ecbbfb0bc219d41a14", null ],
+    [ "m_nFrameIndex", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a4a6c1ba7928e9784e68308458886941a", null ],
+    [ "m_nNumDroppedFrames", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a2b293b1d8cf868bbff292059efd5a06b", null ],
+    [ "m_nNumFramePresents", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a86bdb8bf1667b90551790ed5e333f0d1", null ],
+    [ "m_nNumMisPresented", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a0d8c4a57caf69405c94b3321ca90f9fd", null ],
+    [ "m_nReprojectionFlags", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a8bdd28725e4ca14a25be8236c59396ae", null ],
+    [ "m_nSize", "struct_o_v_r_1_1_open_v_r_1_1_compositor___frame_timing.html#a2a0c0380f1429588ee98dba7f178a0c1", null ]
+];
