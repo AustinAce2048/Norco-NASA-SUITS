@@ -6,7 +6,7 @@ public class panel1_button : MonoBehaviour
 {
     public bool isAnchored = true;
 
-    private string boneTag;
+    //private string boneTag;
 
     void Start()
     {
