@@ -38,3 +38,5 @@ sysinfo.txt
 Assets/Photon/PhotonLibs/Metro.meta
 
 Assets/Sound/Music.meta
+
+*.props
