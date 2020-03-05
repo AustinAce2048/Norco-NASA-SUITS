@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class UIAnchor_howard : MonoBehaviour {
+    public GameObject camera;
+
     //UI attachments
     public GameObject worldUIRoot;
     public GameObject panel1;
+    public GameObject telePanel;
     public GameObject wristSlot;
     public GameObject palmSlot;
     public GameObject cameraRoot;
@@ -14,12 +17,14 @@ public class UIAnchor_howard : MonoBehaviour {
     private Transform pinkyBonePosition;
     private Transform wristBonePosition;
     private Transform palmBonePosition;
+    private Transform indexBonePosition;
 
 
     void Start() {
         pinkyBonePosition = GetComponent<OVRSkeleton> ().Bones[16].Transform;
         wristBonePosition = GetComponent<OVRSkeleton> ().Bones[1].Transform;
         palmBonePosition = GetComponent<OVRSkeleton> ().Bones[0].Transform;
+        indexBonePosition = GetComponent<OVRSkeleton>().Bones[20].Transform;
 
         worldUIRoot = GameObject.Find("UI Right Hand");
 
@@ -31,6 +36,12 @@ public class UIAnchor_howard : MonoBehaviour {
 
     void Update() {
         if (panel1.transform.parent != null) { panel1.transform.position = new Vector3(pinkyBonePosition.position.x - 0.1f, pinkyBonePosition.position.y, pinkyBonePosition.position.z); }
+
+        if (telePanel.transform.parent != null) {
+            telePanel.transform.position = new Vector3(indexBonePosition.position.x, indexBonePosition.position.y + 0.07f, indexBonePosition.position.z - 0.02f);
+            telePanel.transform.LookAt(camera.transform.position, Vector3.up);
+        }
+
         wristSlot.transform.position = new Vector3(wristBonePosition.position.x, wristBonePosition.position.y + 5000f, wristBonePosition.position.z - 1000f);
         //uncomment for position method use
         //palmSlot.transform.position = new Vector3(palmBonePosition.position.x, palmBonePosition.position.y, palmBonePosition.position.z);
