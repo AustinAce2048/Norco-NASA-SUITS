@@ -1,5 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target_event_args =
-[
-    [ "TargetEventArgs", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target_event_args.html#af02db86c2795ba61e59804e3ff247fdb", null ],
-    [ "HitTarget", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target_event_args.html#afb442f6a45fbb6b736ca61b16989f838", null ]
-];

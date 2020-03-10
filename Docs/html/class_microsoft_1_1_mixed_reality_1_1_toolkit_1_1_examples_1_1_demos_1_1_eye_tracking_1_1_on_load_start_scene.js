@@ -1,4 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_on_load_start_scene =
-[
-    [ "Start", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_on_load_start_scene.html#ab10f29cf446200b10d270bbafd1f27ec", null ]
-];

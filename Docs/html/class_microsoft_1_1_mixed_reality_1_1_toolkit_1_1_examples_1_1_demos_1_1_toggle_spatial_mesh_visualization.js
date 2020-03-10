@@ -1,4 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_toggle_spatial_mesh_visualization =
-[
-    [ "ToggleSpatialMeshVisual", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_toggle_spatial_mesh_visualization.html#af42f860f9c25cadca78240f054f29819", null ]
-];

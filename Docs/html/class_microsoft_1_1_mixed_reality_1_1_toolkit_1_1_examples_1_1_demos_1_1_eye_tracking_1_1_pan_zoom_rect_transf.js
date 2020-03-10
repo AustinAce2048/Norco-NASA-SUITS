@@ -1,5 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_pan_zoom_rect_transf =
-[
-    [ "Start", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_pan_zoom_rect_transf.html#a73cca35bd658e172e0567a6043108ccf", null ],
-    [ "Update", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_pan_zoom_rect_transf.html#a87ea4d352a2d73557fef6b311b90bf5b", null ]
-];

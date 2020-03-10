@@ -1,5 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_dwell_profile_with_decay =
-[
-    [ "AllowDwellDecayOnCancel", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_dwell_profile_with_decay.html#a3aaa00d909a073d2ae9cd3a6857170f1", null ],
-    [ "TimeToAllowDwellDecay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_dwell_profile_with_decay.html#a9fa32ef89299fb26ae9362b9ec50b98b", null ]
-];

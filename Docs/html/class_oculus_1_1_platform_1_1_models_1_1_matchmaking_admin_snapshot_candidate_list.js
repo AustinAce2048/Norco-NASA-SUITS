@@ -1,4 +1,0 @@
-var class_oculus_1_1_platform_1_1_models_1_1_matchmaking_admin_snapshot_candidate_list =
-[
-    [ "MatchmakingAdminSnapshotCandidateList", "class_oculus_1_1_platform_1_1_models_1_1_matchmaking_admin_snapshot_candidate_list.html#a691625af8e46800f2fcbf80ba89273a1", null ]
-];

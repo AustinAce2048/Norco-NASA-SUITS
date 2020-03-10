@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['y_28701',['Y',['../class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_bounds_extensions.html#a0260609f5517df9204f609bf5b2e7914a57cec4137b614c87cb4e24a3d003a3e0',1,'Microsoft.MixedReality.Toolkit.BoundsExtensions.Y()'],['../class_teleport_input_handler_touch.html#a374aee425bf3d69794e024aa16e68e49a57cec4137b614c87cb4e24a3d003a3e0',1,'TeleportInputHandlerTouch.Y()'],['../class_o_v_r_input.html#a9d6423af820e22b93f0b33a4fc4bf77aa57cec4137b614c87cb4e24a3d003a3e0',1,'OVRInput.Y()'],['../class_o_v_r_input.html#a6e130faa2035c5b20853c1177d909cc6a57cec4137b614c87cb4e24a3d003a3e0',1,'OVRInput.Y()'],['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#a916f70a8a653bd0869febc6a82b3c586a57cec4137b614c87cb4e24a3d003a3e0',1,'Microsoft.MixedReality.Toolkit.Utilities.Y()']]],
-  ['yawonly_28702',['YawOnly',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#a524809a7c377271a74400341a9498ff0ace19c5ffe2be393315abcaf2b6f7ff2a',1,'Microsoft::MixedReality::Toolkit::Utilities']]],
-  ['yaxisonly_28703',['YAxisOnly',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#abfb759ea8304f212a4253fff95fec8d5a5f2bab6838f87cfa06551654d2f63dde',1,'Microsoft::MixedReality::Toolkit::Utilities']]],
-  ['yz_28704',['YZ',['../namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_utilities.html#a916f70a8a653bd0869febc6a82b3c586affa4ba973372c3650fd0881abeca6512',1,'Microsoft::MixedReality::Toolkit::Utilities']]]
-];

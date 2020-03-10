@@ -1,5 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure =
-[
-    [ "GetData", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure.html#a8294c2aadb7466f644ed000233bf3f4a", null ],
-    [ "GetHeaderColumns", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_logging_1_1_log_structure.html#a111b511ce5ae6ee3c778497bd5dd7b11", null ]
-];

@@ -1,4 +1,0 @@
-var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_examples =
-[
-    [ "ScrollableListPopulator", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_examples_1_1_scrollable_list_populator.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_examples_1_1_scrollable_list_populator" ]
-];

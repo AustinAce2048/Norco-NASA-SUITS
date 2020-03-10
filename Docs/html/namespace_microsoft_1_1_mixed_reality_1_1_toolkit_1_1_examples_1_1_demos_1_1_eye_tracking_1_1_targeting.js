@@ -1,4 +1,0 @@
-var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_targeting =
-[
-    [ "OnLookAtShowHoverFeedback", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target8e087eac52f2a38b1d10ad508b5fd139.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_target8e087eac52f2a38b1d10ad508b5fd139" ]
-];

@@ -1,4 +1,0 @@
-var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_editor =
-[
-    [ "MixedRealityBoundaryVisualizationProfileInspector", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_editor_1_1_mixed_reality_boundary76d3090de87eef47224019e7e1ccb678.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_boundary_1_1_editor_1_1_mixed_reality_boundary76d3090de87eef47224019e7e1ccb678" ]
-];

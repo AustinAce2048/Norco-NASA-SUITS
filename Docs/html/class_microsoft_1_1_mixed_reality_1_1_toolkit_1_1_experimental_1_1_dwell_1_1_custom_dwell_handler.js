@@ -1,4 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_custom_dwell_handler =
-[
-    [ "UpdateFillTimer", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_experimental_1_1_dwell_1_1_custom_dwell_handler.html#a0f7d933d597a6a191c6cc4cdeeea0fa2", null ]
-];

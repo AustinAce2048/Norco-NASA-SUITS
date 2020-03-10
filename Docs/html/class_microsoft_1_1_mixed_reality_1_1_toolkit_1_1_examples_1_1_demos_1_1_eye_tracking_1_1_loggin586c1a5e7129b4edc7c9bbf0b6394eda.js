@@ -1,9 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda =
-[
-    [ "LoadData", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#a768a3fb06c00c17c49c05a40a91e8b9a", null ],
-    [ "PauseReplay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#a037ba2fa151de44738e906c99a7f5879", null ],
-    [ "Start", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#abaf2305846244457fb5cbafd839671a5", null ],
-    [ "StartRecording", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#ac789ee0e3c1ac54176d807fd26c56c36", null ],
-    [ "StartReplay", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#a23435951bc0669337432c518f85760f3", null ],
-    [ "StopRecording", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_loggin586c1a5e7129b4edc7c9bbf0b6394eda.html#a82c4473591d65547765fe731335db7c0", null ]
-];

@@ -1,4 +1,0 @@
-var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_spatial_awareness_1_1_utilities =
-[
-    [ "SpatialMeshExporter", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_spatial_awareness_1_1_utilities_1_1_spatial_mesh_exporter.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_spatial_awareness_1_1_utilities_1_1_spatial_mesh_exporter" ]
-];

@@ -1,4 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_keep_this_alive =
-[
-    [ "Instance", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_eye_tracking_1_1_keep_this_alive.html#a749cf809b9442333e11815e548391f04", null ]
-];

@@ -1,6 +1,0 @@
-var namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf =
-[
-    [ "Editor", "namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf_1_1_editor.html", "namespace_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf_1_1_editor" ],
-    [ "TestGlbLoading", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf_1_1_test_glb_loading.html", null ],
-    [ "TestGltfLoading", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf_1_1_test_gltf_loading.html", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_examples_1_1_demos_1_1_gltf_1_1_test_gltf_loading" ]
-];

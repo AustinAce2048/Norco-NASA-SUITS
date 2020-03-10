@@ -1,7 +1,0 @@
-var class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_base_windows_mixed_reality_source =
-[
-    [ "BaseWindowsMixedRealitySource", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_base_windows_mixed_reality_source.html#a975ccc6a9dad4ca11a89656919d35496", null ],
-    [ "SetupDefaultInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_base_windows_mixed_reality_source.html#a1ad0e47e17de9cb649d66a79564f2376", null ],
-    [ "DefaultLeftHandedInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_base_windows_mixed_reality_source.html#aa66ef63bb569faa5b3d4ce792ea6def4", null ],
-    [ "DefaultRightHandedInteractions", "class_microsoft_1_1_mixed_reality_1_1_toolkit_1_1_windows_mixed_reality_1_1_input_1_1_base_windows_mixed_reality_source.html#a65380e1de2c4d462ac13146f5c31bf48", null ]
-];
